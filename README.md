@@ -46,10 +46,10 @@ A clean and minimal React web application that allows users to **Create**, **Rea
 [Click here to view the deployed app on Netlify](https://playwithapi.netlify.app/)
 
 
-🧪 API Info <br/>
+## 🧪 API Info <br/>
 Using JSONPlaceholder – a free REST API for testing and prototyping. <br/>
 Note: Changes made (add/update/delete) are not permanently saved since it's a mock API.
 
-🙌 Acknowledgements <br/>
+## 🙌 Acknowledgements <br/>
 Thanks to JSONPlaceholder for providing a great API for testing frontend applications.
 
